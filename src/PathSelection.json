@@ -1,0 +1,452 @@
+{
+    "mockup": {
+        "controls": {
+            "control": [
+                {
+                    "ID": "0",
+                    "typeID": "Label",
+                    "zOrder": "0",
+                    "measuredW": "356",
+                    "measuredH": "40",
+                    "x": "491",
+                    "y": "74",
+                    "properties": {
+                        "bold": "true",
+                        "size": "32",
+                        "text": "Web Developer in 2020"
+                    }
+                },
+                {
+                    "ID": "1",
+                    "typeID": "Arrow",
+                    "zOrder": "1",
+                    "w": "2",
+                    "h": "136",
+                    "measuredW": "150",
+                    "measuredH": "100",
+                    "x": "690",
+                    "y": "228",
+                    "properties": {
+                        "color": "2848996",
+                        "leftArrow": "false",
+                        "p0": {
+                            "x": 2.1096941057073764,
+                            "y": -0.09976084501258242
+                        },
+                        "p1": {
+                            "x": 0.4999218872051243,
+                            "y": -0.006249023590063903
+                        },
+                        "p2": {
+                            "x": 0.408946052311876,
+                            "y": 135.96008342662168
+                        }
+                    }
+                },
+                {
+                    "ID": "2",
+                    "typeID": "Arrow",
+                    "zOrder": "2",
+                    "w": "133",
+                    "h": "131",
+                    "measuredW": "150",
+                    "measuredH": "100",
+                    "x": "518",
+                    "y": "229",
+                    "properties": {
+                        "color": "2848996",
+                        "direction": "bottom",
+                        "leftArrow": "false",
+                        "p0": {
+                            "x": 131,
+                            "y": 0
+                        },
+                        "p1": {
+                            "x": 0.5684088130944218,
+                            "y": -0.21788259145523384
+                        },
+                        "p2": {
+                            "x": 1,
+                            "y": 129
+                        }
+                    }
+                },
+                {
+                    "ID": "3",
+                    "typeID": "TextInput",
+                    "zOrder": "3",
+                    "w": "132",
+                    "measuredW": "93",
+                    "measuredH": "32",
+                    "x": "441",
+                    "y": "367",
+                    "properties": {
+                        "align": "center",
+                        "color": "16767334",
+                        "size": "18",
+                        "text": "Front-end"
+                    }
+                },
+                {
+                    "ID": "4",
+                    "typeID": "Label",
+                    "zOrder": "4",
+                    "measuredW": "167",
+                    "measuredH": "28",
+                    "x": "613",
+                    "y": "189",
+                    "properties": {
+                        "bold": "true",
+                        "size": "20",
+                        "text": "Choose your path"
+                    }
+                },
+                {
+                    "ID": "5",
+                    "typeID": "TextInput",
+                    "zOrder": "5",
+                    "w": "288",
+                    "measuredW": "179",
+                    "measuredH": "32",
+                    "x": "68",
+                    "y": "81",
+                    "properties": {
+                        "align": "center",
+                        "color": "16776960",
+                        "size": "18",
+                        "text": "Git - Version Control"
+                    }
+                },
+                {
+                    "ID": "7",
+                    "typeID": "TextInput",
+                    "zOrder": "6",
+                    "w": "289",
+                    "measuredW": "209",
+                    "measuredH": "32",
+                    "x": "67",
+                    "y": "279",
+                    "properties": {
+                        "align": "center",
+                        "color": "16776960",
+                        "size": "18",
+                        "text": "HTTP/HTTPS and APIs"
+                    }
+                },
+                {
+                    "ID": "8",
+                    "typeID": "Label",
+                    "zOrder": "7",
+                    "measuredW": "175",
+                    "measuredH": "25",
+                    "x": "67",
+                    "y": "45",
+                    "properties": {
+                        "bold": "true",
+                        "size": "17",
+                        "text": "Required for any path"
+                    }
+                },
+                {
+                    "ID": "9",
+                    "typeID": "TextInput",
+                    "zOrder": "8",
+                    "w": "289",
+                    "measuredW": "192",
+                    "measuredH": "32",
+                    "x": "67",
+                    "y": "120",
+                    "properties": {
+                        "align": "center",
+                        "color": "16776960",
+                        "size": "18",
+                        "text": "Basic Terminal Usage"
+                    }
+                },
+                {
+                    "ID": "10",
+                    "typeID": "Arrow",
+                    "zOrder": "9",
+                    "w": "1",
+                    "h": "47",
+                    "measuredW": "150",
+                    "measuredH": "100",
+                    "x": "689",
+                    "y": "135",
+                    "properties": {
+                        "color": "6710886",
+                        "curvature": "0",
+                        "leftArrow": "false",
+                        "p0": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "p1": {
+                            "x": 0.5,
+                            "y": 0
+                        },
+                        "p2": {
+                            "x": 0,
+                            "y": 46
+                        },
+                        "rightArrow": "false"
+                    }
+                },
+                {
+                    "ID": "11",
+                    "typeID": "TextInput",
+                    "zOrder": "10",
+                    "w": "121",
+                    "measuredW": "92",
+                    "measuredH": "32",
+                    "x": "634",
+                    "y": "368",
+                    "properties": {
+                        "align": "center",
+                        "color": "16767334",
+                        "size": "18",
+                        "text": "Back-end"
+                    }
+                },
+                {
+                    "ID": "12",
+                    "typeID": "Arrow",
+                    "zOrder": "11",
+                    "w": "2",
+                    "h": "71",
+                    "measuredW": "150",
+                    "measuredH": "100",
+                    "x": "509",
+                    "y": "407",
+                    "properties": {
+                        "color": "2848996",
+                        "curvature": "0",
+                        "leftArrow": "false",
+                        "p0": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "p1": {
+                            "x": 0.5621504039776257,
+                            "y": 0.004661280298321849
+                        },
+                        "p2": {
+                            "x": 0,
+                            "y": 69
+                        },
+                        "rightArrow": "false",
+                        "stroke": "dotted"
+                    }
+                },
+                {
+                    "ID": "14",
+                    "typeID": "TextInput",
+                    "zOrder": "12",
+                    "w": "112",
+                    "measuredW": "41",
+                    "measuredH": "32",
+                    "x": "817",
+                    "y": "371",
+                    "properties": {
+                        "align": "center",
+                        "color": "16767334",
+                        "size": "18",
+                        "text": "QA"
+                    }
+                },
+                {
+                    "ID": "15",
+                    "typeID": "Arrow",
+                    "zOrder": "13",
+                    "w": "2",
+                    "h": "71",
+                    "measuredW": "150",
+                    "measuredH": "100",
+                    "x": "684",
+                    "y": "410",
+                    "properties": {
+                        "color": "2848996",
+                        "leftArrow": "false",
+                        "p0": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "p1": {
+                            "x": 0.4608695652173913,
+                            "y": 0.01304347826086956
+                        },
+                        "p2": {
+                            "x": 0,
+                            "y": 69
+                        },
+                        "rightArrow": "false",
+                        "stroke": "dotted"
+                    }
+                },
+                {
+                    "ID": "16",
+                    "typeID": "Arrow",
+                    "zOrder": "14",
+                    "w": "1",
+                    "h": "66",
+                    "measuredW": "150",
+                    "measuredH": "100",
+                    "x": "868",
+                    "y": "406",
+                    "properties": {
+                        "color": "2848996",
+                        "leftArrow": "false",
+                        "p0": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "p1": {
+                            "x": 0.4537465672812867,
+                            "y": 0.012475480580619848
+                        },
+                        "p2": {
+                            "x": 0,
+                            "y": 66
+                        },
+                        "rightArrow": "false",
+                        "stroke": "dotted"
+                    }
+                },
+                {
+                    "ID": "17",
+                    "typeID": "TextInput",
+                    "zOrder": "15",
+                    "w": "288",
+                    "measuredW": "70",
+                    "measuredH": "32",
+                    "x": "67",
+                    "y": "198",
+                    "properties": {
+                        "align": "center",
+                        "color": "16776960",
+                        "size": "18",
+                        "text": "GitHub"
+                    }
+                },
+                {
+                    "ID": "18",
+                    "typeID": "TextInput",
+                    "zOrder": "16",
+                    "w": "288",
+                    "measuredW": "255",
+                    "measuredH": "32",
+                    "x": "68",
+                    "y": "159",
+                    "properties": {
+                        "align": "center",
+                        "color": "16776960",
+                        "size": "18",
+                        "text": "Data Structures & Algorithms"
+                    }
+                },
+                {
+                    "ID": "19",
+                    "typeID": "TextInput",
+                    "zOrder": "17",
+                    "w": "288",
+                    "measuredW": "188",
+                    "measuredH": "32",
+                    "x": "68",
+                    "y": "357",
+                    "properties": {
+                        "align": "center",
+                        "color": "16776960",
+                        "size": "18",
+                        "text": "Character Encodings"
+                    }
+                },
+                {
+                    "ID": "20",
+                    "typeID": "TextInput",
+                    "zOrder": "18",
+                    "w": "288",
+                    "measuredW": "146",
+                    "measuredH": "32",
+                    "x": "68",
+                    "y": "318",
+                    "properties": {
+                        "align": "center",
+                        "color": "16776960",
+                        "size": "18",
+                        "text": "Design Patterns"
+                    }
+                },
+                {
+                    "ID": "22",
+                    "typeID": "TextInput",
+                    "zOrder": "19",
+                    "w": "288",
+                    "measuredW": "182",
+                    "measuredH": "32",
+                    "x": "68",
+                    "y": "237",
+                    "properties": {
+                        "align": "center",
+                        "color": "16776960",
+                        "size": "18",
+                        "text": "Semantic Versioning"
+                    }
+                },
+                {
+                    "ID": "25",
+                    "typeID": "TextInput",
+                    "zOrder": "20",
+                    "w": "288",
+                    "measuredW": "286",
+                    "measuredH": "32",
+                    "x": "68",
+                    "y": "398",
+                    "properties": {
+                        "align": "center",
+                        "color": "16776960",
+                        "size": "18",
+                        "text": "Synchronous/Asynchronous Prog."
+                    }
+                },
+                {
+                    "ID": "27",
+                    "typeID": "Arrow",
+                    "zOrder": "21",
+                    "w": "113",
+                    "h": "134",
+                    "measuredW": "150",
+                    "measuredH": "100",
+                    "x": "761",
+                    "y": "230",
+                    "properties": {
+                        "color": "2848996",
+                        "leftArrow": "false",
+                        "p0": {
+                            "x": 0.08475389445425208,
+                            "y": -0.3990127916171673
+                        },
+                        "p1": {
+                            "x": 0.5563870599277424,
+                            "y": 0.19169230209584878
+                        },
+                        "p2": {
+                            "x": 112.98749165883191,
+                            "y": 133.25933537322624
+                        }
+                    }
+                }
+            ]
+        },
+        "attributes": {
+            "name": "PathSelection",
+            "order": 1000000,
+            "parentID": null
+        },
+        "resourceID": "3FA6B944-17E1-4879-A1D0-323A03D784AB",
+        "mockupH": "436",
+        "mockupW": "862",
+        "measuredW": "929",
+        "measuredH": "481",
+        "version": "1.0"
+    }
+}
