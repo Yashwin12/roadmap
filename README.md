@@ -9,17 +9,17 @@ These roadmaps cover everything that is there to learn for the paths listed belo
 ## How to use it? 💻
 The recommended way is to start from top of the desired learning path and get a good understanding on all the sub-topics. Then, repeat this same process for each career path until the end of the roadmap. 
 
-### Path-selector 
-<!-- TODO: Point to the export -->
+### Path-selector
+![Path selector](./img/pathSelection.png)
 
 ### Front-end
-<!-- TODO: Point to the export -->
+![Front-end](./img/frontEnd.png)
 
 ### Back-end
-<!-- TODO: Point to the export -->
+![Back-end](./img/backEnd.png)
 
 ### QA
-<!-- TODO: Point to the export -->
+![QA](./img/QA.png)
 
 ## How are these roadmaps built? 🏗️
 > Roadmaps are built using [Balsamiq](https://balsamiq.com/download/) (v4.x)
