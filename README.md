@@ -10,13 +10,13 @@ These roadmaps cover everything that is there to learn for the paths listed belo
 The recommended way is to start from top of the desired learning path and get a good understanding on all the sub-topics. Then, repeat this same process for each career path until the end of the roadmap. 
 
 ### Path-selector
-![Path selector](./img/pathSelection.png) 
+![Path selector](./img/PathSelection.png) 
 
 ### Front-end
-![Front-end](./img/frontEnd.png)
+![Front-end](./img/frontend.png)
 
 ### Back-end
-![Back-end](./img/backEnd.png)
+![Back-end](./img/backend.png)
 
 ### QA
 ![QA](./img/QA.png)
